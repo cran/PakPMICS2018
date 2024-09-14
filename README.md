@@ -1,35 +1,34 @@
 
 ## `PakPMICS2018`: Multiple Indicator Cluster Survey (MICS) 2017-18 Data for Punjab, Pakistan
 
-###### Version : [1.0.0](https://myaseen208.github.io/PakPMICS2018/); Copyright (C) 2019-2020: [UAF](http://uaf.edu.pk//); License: [GPL-2|GPL-3](https://www.r-project.org/Licenses/)
+###### Version : [1.1.0](https://myaseen208.com/PakPMICS2018/); Copyright (C) 2019-2020: [UAF](https://web.uaf.edu.pk/); License: [GPL-2\|GPL-3](https://www.r-project.org/Licenses/)
 
 ##### *Muhammad Yaseen*
 
 Department of Mathematics and Statistics, University of Agriculture
 Faisalabad, Pakistan.
 
------
+------------------------------------------------------------------------
 
 [![minimal R
 version](https://img.shields.io/badge/R%3E%3D-3.5.0-6666ff.svg)](https://cran.r-project.org/)
 [![License: GPL
 v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version-last-release/PakPMICS2018)](https://cran.r-project.org/package=PakPMICS2018)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-last-release/PakPMICS2018)](https://cran.r-project.org/package=PakPMICS2018)
 [![rstudio mirror
 downloads](https://cranlogs.r-pkg.org/badges/grand-total/PakPMICS2018?color=green)](https://CRAN.R-project.org/package=PakPMICS2018)
 <!-- [![packageversion](https://img.shields.io/badge/Package%20version-0.2.3.3-orange.svg)](https://github.com/myaseen208/PakPMICS2018) -->
 
-[![develVersion](https://img.shields.io/badge/devel%20version-1.0.0-orange.svg)](https://github.com/myaseen208/PakPMICS2018)
+[![develVersion](https://img.shields.io/badge/devel%20version-1.1.0-orange.svg)](https://github.com/myaseen208/PakPMICS2018)
 
 <!-- [![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/myaseen208/PakPMICS2018/total.svg)] -->
 
 [![Project Status:
-WIP](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
-[![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
-[![Last-changedate](https://img.shields.io/badge/last%20change-2020--01--24-yellowgreen.svg)](https://github.com/myaseen208/PakPMICS2018)
-[![Rdoc](http://www.rdocumentation.org/badges/version/PakPMICS2018)](http://www.rdocumentation.org/packages/PakPMICS2018)
+WIP](http://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2024--09--13-yellowgreen.svg)](https://github.com/myaseen208/PakPMICS2018)
 
------
+------------------------------------------------------------------------
 
 ## Description
 
@@ -51,8 +50,7 @@ second household to all men age 15-49 years; (5) an under-5
 questionnaire, administered to mothers (or caretakers) of all children
 under 5 living in the household; and (6) a questionnaire for children
 age 5-17 years, administered to the mother (or caretaker) of one
-randomly selected child age 5-17 years living in the household
-(<http://www.mics.unicef.org/surveys>).
+randomly selected child age 5-17 years living in the household.
 
 ## Installation
 
@@ -83,7 +81,7 @@ news(package = "PakPMICS2018")
 
 [Github page](https://github.com/myaseen208/PakPMICS2018)
 
-[Documentation website](https://myaseen208.github.io/PakPMICS2018/)
+[Documentation website](https://myaseen208.com/PakPMICS2018/)
 
 ## Citing `PakPMICS2018`
 
@@ -93,27 +91,16 @@ To cite the methods in the package use:
 citation("PakPMICS2018")
 ```
 
-``` 
+    Please, support this project by citing it in your publications!
 
-To cite the R package 'PakPMICS2018' in publications use:
+      Yaseen M (2019). _PakPMICS2018: Multiple Indicator Cluster Survey
+      (MICS) 2017-18 Data for Punjab, Pakistan_.
 
-  Muhammad Yaseen (2020).  PakPMICS2018: Multiple Indicator Cluster
-  Survey (MICS) 2017-18 Data for Punjab, Pakistan.R package version
-  1.0.0 ,
-  https://myaseen208.github.io/PakPMICS2018/https://cran.r-project.org/package=PakPMICS2018.
+    A BibTeX entry for LaTeX users is
 
-A BibTeX entry for LaTeX users is
-
-  @Manual{,
-    title = {PakPMICS2018: Multiple Indicator Cluster Survey (MICS) 2017-18 Data for Punjab, Pakistan},
-    author = {{Muhammad Yaseen}},
-    year = {2020},
-    note = {R package version 1.0.0},
-    note = {https://myaseen208.github.io/PakPMICS2018/ },
-    note = {https://cran.r-project.org/package=PakPMICS2018},
-  }
-
-This free and open-source software implements academic research by the
-authors and co-workers. If you use it, please support the project by
-citing the package.
-```
+      @Manual{,
+        title = {PakPMICS2018: Multiple Indicator Cluster Survey (MICS) 2017-18 Data for Punjab, Pakistan},
+        author = {Muhammad Yaseen},
+        year = {2019},
+        journal = {The Comprehensive R Archive Network (CRAN)},
+      }
