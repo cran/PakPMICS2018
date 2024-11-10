@@ -1,12 +1,14 @@
 
 ## `PakPMICS2018`: Multiple Indicator Cluster Survey (MICS) 2017-18 Data for Punjab, Pakistan
 
-###### Version : [1.1.0](https://myaseen208.com/PakPMICS2018/); Copyright (C) 2019-2020: [UAF](https://web.uaf.edu.pk/); License: [GPL-2\|GPL-3](https://www.r-project.org/Licenses/)
+###### Version : [1.2.0](https://myaseen208.com/PakPMICS2018/); License: [GPL-3](https://www.r-project.org/Licenses/)
 
-##### *Muhammad Yaseen*
+##### *Muhammad Yaseen<sup>1,2</sup>*
 
-Department of Mathematics and Statistics, University of Agriculture
-Faisalabad, Pakistan.
+1.  School of Mathematical & Statistical Sciences, Clemson University,
+    Clemson, South Carolina, USA
+2.  Department of Mathematics & Statistics, University of Agriculture
+    Faisalabad, Pakistan
 
 ------------------------------------------------------------------------
 
@@ -26,7 +28,7 @@ downloads](https://cranlogs.r-pkg.org/badges/grand-total/PakPMICS2018?color=gree
 [![Project Status:
 WIP](http://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![Last-changedate](https://img.shields.io/badge/last%20change-2024--09--13-yellowgreen.svg)](https://github.com/myaseen208/PakPMICS2018)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2024--11--10-yellowgreen.svg)](https://github.com/myaseen208/PakPMICS2018)
 
 ------------------------------------------------------------------------
 
